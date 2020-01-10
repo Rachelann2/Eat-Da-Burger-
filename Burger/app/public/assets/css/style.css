@@ -1,0 +1,14 @@
+.jumbotron {
+    background-color: blueviolet;
+    color: white;
+}
+
+
+.container {
+    text-align: center;
+}
+
+#burger-submit {
+    color: blueviolet;
+    background-color: white;
+}
